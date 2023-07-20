@@ -1,0 +1,10 @@
+{
+    "firstNameField" : "#firstName",
+    "firstNameFieldData" : "Daniel",
+    "lastNameField" : "#lastName",
+    "lastNameFieldData" : "Bothwell",
+    "emailField" : "#email",
+    "emailFieldData" : "test",
+    "submitTextButton" : "#submitText",
+    "validationString" : "Please include an '@' in the email address."
+}
