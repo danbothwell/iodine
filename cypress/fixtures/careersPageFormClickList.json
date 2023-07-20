@@ -1,0 +1,11 @@
+{
+    "sdetPositionHref" : "#gnewtonCareerHome > tbody > tr:nth-child(2) > td > div:nth-child(21) > div.gnewtonCareerGroupJobTitleClass > a",
+    "applyButton" : "#gnewtonJobDescriptionBtn > div.gnewtonBlueBtn.gnewtonApplyBtn",
+    "submitToSurveyButton" : "#gnewton-submit" ,
+    "identifyGenderButton" : "#gnewton-vevraa-form > div.gnewtonForm-body > div:nth-child(2) > div:nth-child(1) > label:nth-child(1) > span.radio-label",
+    "identifyRaceButton" : "#gnewton-vevraa-form > div.gnewtonForm-body > div:nth-child(2) > div:nth-child(2) > label:nth-child(2) > span.radio-label",
+    "submitIdentityStatusButton" : "#gnewton-submit",
+    "verteranStatusButton" :  "#gnewton-vevraa-form > div.gnewtonForm-body > div.sub_section > label:nth-child(2) > span.radio-label", 
+    "verteranSubmitButton" : "#gnewton-submit",
+    "disabilityStatusbitton" : "#gnewton-vevraa-form > div.gnewtonForm-body > div.gnewtonForm-body-inner > div:nth-child(6) > label:nth-child(2) > span.radio-label"
+}
